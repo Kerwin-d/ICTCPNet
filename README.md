@@ -1,17 +1,20 @@
 # ICTCPNet
-the method of "Video Inverse Tone Mapping Network with Luma and Chroma Mapping"
+### "Video Inverse Tone Mapping Network with Luma and Chroma Mapping"
+Peihuan Huang, Gaofeng Cao, Fei Zhou, Guoping Qiu  
+#### [This paper is accepted to ACM MM 2023.](https://dl.acm.org/doi/10.1145/3581783.3612199 "悬停显示")
 
 # Dataset
-The dataset we use is from HDRTVNet
-@inproceedings{ijcai2022-113,
-title = {KPN-MFI: A Kernel Prediction Network with Multi-frame Interaction for Video Inverse Tone Mapping},
-author = {Cao, Gaofeng and Zhou, Fei and Yan, Han and Wang, Anjie and Fan, Leidong},
-booktitle = {Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, {IJCAI-22}},
-publisher = {International Joint Conferences on Artificial Intelligence Organization},
-pages = {806--812},
-year = {2022},
-month = {7},
-note = {Main Track}
-doi = {10.24963/ijcai.2022/113},
-url = {https://doi.org/10.24963/ijcai.2022/113},
+The dataset we use is from HDRTVNet 1K.
+  
+
+## Citation
+If our work is helpful to you, please cite our paper:
+@inproceedings{huang2023video,  
+  title={Video Inverse Tone Mapping Network with Luma and Chroma Mapping},  
+  author={Huang, Peihuan and Cao, Gaofeng and Zhou, Fei and Qiu, Guoping},  
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},  
+  pages={1383--1391},  
+  year={2023},  
+  doi = {10.1145/3581783.3612199},   
+  url = {https://dl.acm.org/doi/10.1145/3581783.3612199}
 }
