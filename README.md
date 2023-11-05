@@ -5,7 +5,7 @@ Peihuan Huang, Gaofeng Cao, Fei Zhou, Guoping Qiu
 
 ## Overview
 Overview of the method:
-
+![](https://github.com/Kerwin-d/ICTCPNet/blob/main/Method%20Pictures/ICTCPNet.png)  
 # Dataset
 The dataset we use is from HDRTVNet 1K.
   
